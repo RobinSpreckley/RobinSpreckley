@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B2422,50:0F766E,100:14B8A6&text=Robin%20Spreckley&fontColor=E6FFFB&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Explainable%20AI%20%C2%B7%20Tech%20for%20Healthcare&descSize=18&descAlignY=58&descAlign=50" alt="Robin Spreckley · Software Engineer · Explainable AI · Tech for Healthcare" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B2422,50:0F766E,100:14B8A6&text=Robin%20Spreckley&fontColor=E6FFFB&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Explainable%20AI%20%C2%B7%20Tech%20for%20Healthcare&descSize=18&descAlignY=58&descAlign=50" alt="Robin Spreckley · Software Engineer · Explainable AI · Tech for Healthcare" width="100%"/></a>
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
@@ -18,8 +18,6 @@
 
 ```text
 CLASS        Software Engineer
-
-EDUCATION    MSci Computing Science, Glasgow
 
 CRAFT        Embedded Linux
              Edge AI
@@ -63,7 +61,7 @@ Currently, I'm working on embedded Linux and scanner software at Boop, while exp
 <sub>Ongoing. Deletes the words a model says mattered and checks whether its answer actually changes. First run (Qwen3-4B, 872 reviews): the named words mattered 2.4× more than random words on average, but did no better than random in 60% of reviews.</sub>  
 <a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-8FB9B3?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<p align="center"><img src="assets/explain.svg" alt="A robot labels a review positive, points at the words it says mattered, and its confidence drops when they are deleted" width="720"/></p>
+<p align="center"><a><img src="assets/explain.svg" alt="A robot labels a review positive, points at the words it says mattered, and its confidence drops when they are deleted" width="720"/></a></p>
 
 **TWITTER CRAWLER** · Trend analysis from the Twitter API  
 <a href="https://github.com/RobinSpreckley/Web-Science-AE"><img src="https://img.shields.io/badge/CODE-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
