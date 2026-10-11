@@ -36,8 +36,10 @@ TOOLS        Python
              TypeScript
              SQL
 
+PASSIONS     Explainable AI
+             Tech for healthcare
+
 CURIOSITY    Making slow systems fast
-             Why models decide what they do
              Building with Claude Code
 
 CURRENT      Scanner software at Boop, Edinburgh
@@ -45,7 +47,7 @@ CURRENT      Scanner software at Boop, Edinburgh
 
 My main focus is **software that runs close to the hardware**: embedded Linux, provisioning and getting ML to run on small devices.
 
-On the side, I'm testing whether **AI models' explanations can be trusted**.
+I'm passionate about **explainable AI** and **tech for healthcare**: AI that people can trust when the decisions matter. On the side, I'm testing whether LLMs' explanations of their own answers hold up.
 
 <br>
 
