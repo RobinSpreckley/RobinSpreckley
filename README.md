@@ -61,8 +61,6 @@ Currently, I'm working on embedded Linux and scanner software at Boop, while exp
 <sub>Ongoing. Deletes the words a model says mattered and checks whether its answer actually changes. First run (Qwen3-4B, 872 reviews): the named words mattered 2.4× more than random words on average, but did no better than random in 60% of reviews.</sub>  
 <a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-8FB9B3?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<p align="center"><a><img src="assets/explain.svg" alt="A robot labels a review positive, points at the words it says mattered, and its confidence drops when they are deleted" width="720"/></a></p>
-
 **TWITTER CRAWLER** · Trend analysis from the Twitter API  
 <a href="https://github.com/RobinSpreckley/Web-Science-AE"><img src="https://img.shields.io/badge/CODE-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
 
