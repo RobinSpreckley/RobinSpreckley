@@ -84,17 +84,6 @@ Ongoing. Tests whether an LLM's explanation of its answer reflects what actually
 
 <a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
 
-### Next.js Dashboard
-`NEXT.JS` `REACT` `TYPESCRIPT` `POSTGRESQL`
-
-Full-stack invoices dashboard built through the official Next.js App Router course, deployed on Vercel.
-- **Data:** Postgres database with server-side fetching, streaming, search and pagination.
-- **Forms:** create, edit and delete invoices securely, with server-side validation (Zod) and accessible error messages.
-- **Auth:** login with NextAuth protecting the dashboard routes.
-
-<a href="https://github.com/RobinSpreckley/nextjs-dashboard"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://projects-website-blue.vercel.app"><img src="https://img.shields.io/badge/LIVE-5EB8AE?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
 <!-- ## ◆ hacks & side quests
 
 ### Hackathon name · Year
