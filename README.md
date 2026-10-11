@@ -1,18 +1,8 @@
 <div align="center">
 
-<br>
+# Robin Spreckley
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=1&pause=999999&color=14B8A6&center=true&vCenter=true&repeat=false&width=900&height=90&lines=ROBIN+SPRECKLEY" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=999999&color=5EB8AE&center=true&vCenter=true&repeat=false&width=700&height=45&lines=SOFTWARE+ENGINEER" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&duration=2600&pause=1000&color=8FB9B3&center=true&vCenter=true&width=850&lines=making+slow+systems+fast...;squeezing+ML+onto+tiny+hardware...;asking+LLMs+why+they+said+that...;building+tools+with+Claude+Code..." />
-
-<br>
+**Software Engineer**
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
@@ -22,7 +12,7 @@
 <a href="https://robinspreckley.vercel.app">Portfolio</a>
 -->
 
-<br><br>
+<br>
 
 <sub>FIRST CLASS MSCI COMPUTING SCIENCE · UNIVERSITY OF GLASGOW</sub>
 
