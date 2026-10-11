@@ -40,14 +40,16 @@ PASSIONS     Explainable AI
              Tech for healthcare
 
 CURIOSITY    Making slow systems fast
-             Building with Claude Code
+             Understanding why AI models make decisions
 
 CURRENT      Scanner software at Boop, Edinburgh
 ```
 
-My main focus is **software that runs close to the hardware**: embedded Linux, provisioning and getting ML to run on small devices.
+My main interests are embedded systems, explainable AI and technology that improves people's lives, particularly in healthcare.
 
-I'm passionate about **explainable AI** and **tech for healthcare**: AI that people can trust when the decisions matter. On the side, I'm testing whether LLMs' explanations of their own answers hold up.
+I enjoy working close to the hardware, optimising software for constrained devices and finding ways to make AI systems more transparent and trustworthy.
+
+Currently, I'm working on embedded Linux and scanner software at Boop, while exploring the faithfulness of language model explanations through a personal research project.
 
 <br>
 
@@ -62,7 +64,7 @@ I'm passionate about **explainable AI** and **tech for healthcare**: AI that peo
 <a href="https://github.com/RobinSpreckley/Spying-On-Cows"><img src="https://img.shields.io/badge/CODE-5EB8AE?style=for-the-badge&logo=github&logoColor=white"></a>
 
 **LLM FAITHFULNESS** · Are an LLM's explanations true?  
-<sub>Ongoing. Deletes the words a model says mattered and checks whether its answer actually changes.</sub>  
+<sub>Ongoing. Deletes the words a model says mattered and checks whether its answer actually changes. First run (Qwen3-4B, 872 reviews): the named words mattered 2.4× more than random words on average, but did no better than random in 60% of reviews.</sub>  
 <a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-8FB9B3?style=for-the-badge&logo=github&logoColor=white"></a>
 
 **TWITTER CRAWLER** · Trend analysis from the Twitter API  
