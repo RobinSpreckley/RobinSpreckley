@@ -21,7 +21,7 @@
 ```text
 CLASS        Software Engineer
 
-CRAFT        Embedded Linux
+CRAFT        Embedded systems
              Edge AI
              Explainable AI
              Tooling and automation
@@ -46,7 +46,7 @@ My main interests are getting the most out of edge hardware, explainable AI and 
 
 I enjoy working close to the hardware, optimising software for constrained devices and finding ways to make AI systems more transparent and trustworthy.
 
-Currently, I'm working on embedded Linux for biometric authentication at Boop, while exploring the faithfulness of language model explanations through a personal research project.
+Currently, I'm working on embedded systems for biometric authentication at Boop, while exploring the faithfulness of language model explanations through a personal research project.
 
 <br>
 
