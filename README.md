@@ -1,6 +1,8 @@
 <div align="center">
 
-<a><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B2422,50:0F766E,100:14B8A6&text=Robin%20Spreckley&fontColor=E6FFFB&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Explainable%20AI%20%C2%B7%20Tech%20for%20Healthcare&descSize=18&descAlignY=58&descAlign=50" alt="Robin Spreckley · Software Engineer · Explainable AI · Tech for Healthcare" width="100%"/></a>
+<br>
+
+<a><img src="assets/header.svg" alt="Robin Spreckley · Software Engineer · explainable AI, tech for healthcare, biometrics" width="100%"/></a>
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
