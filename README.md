@@ -2,7 +2,7 @@
 
 # Robin Spreckley
 
-**Software Engineer · Embedded Linux · Edge & Explainable AI**
+**Software Engineer · Embedded Linux**
 
 First Class MSci Computing Science, University of Glasgow  
 Currently building software for a palm-vein biometric scanner at **Boop**, Edinburgh
