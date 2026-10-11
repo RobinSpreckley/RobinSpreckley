@@ -1,8 +1,12 @@
 <div align="center">
 
-# Robin Spreckley
+<br>
 
-**Software Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=1&pause=999999&color=14B8A6&center=true&vCenter=true&repeat=false&width=900&height=90&lines=ROBIN+SPRECKLEY" alt="Robin Spreckley" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=999999&color=5EB8AE&center=true&vCenter=true&repeat=false&width=700&height=40&lines=SOFTWARE+ENGINEER" alt="Software Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=12&duration=2600&pause=1200&color=8FB9B3&center=true&vCenter=true&width=850&lines=asking+models+why+they+said+that...;deleting+the+words+they+blamed...;checking+if+the+answer+changes...;building+AI+people+can+trust...;tech+for+healthcare..." alt="asking models why they said that" />
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
@@ -12,10 +16,6 @@
 <a href="https://robinspreckley.vercel.app">Portfolio</a>
 -->
 
-<br>
-
-<sub>FIRST CLASS MSCI COMPUTING SCIENCE · UNIVERSITY OF GLASGOW</sub>
-
 <br><br>
 
 </div>
@@ -24,6 +24,8 @@
 
 ```text
 CLASS        Software Engineer
+
+EDUCATION    MSci Computing Science, Glasgow
 
 CRAFT        Embedded Linux
              Edge AI
