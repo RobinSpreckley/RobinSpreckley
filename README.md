@@ -69,15 +69,6 @@ Built the kiosk provisioning for the team's live demo. One flash command clones 
 
 ## ✦ project archive
 
-### Are LLM explanations faithful?
-`PYTHON` `PYTORCH` `EXPLAINABLE AI` `LLMS`
-
-Ongoing. Tests whether an LLM's explanation of its answer reflects what actually drove it. The model names the words behind its sentiment label; deleting them should hurt its answer far more than deleting random words.
-- **First result (Qwen3-4B, 872 SST-2 reviews):** deleting the named words cut the model's confidence about 2.4× more than random words on average, but in 60% of reviews they did no better than random, and it named 69 words that weren't in the review.
-- **Next:** log-odds and occlusion baselines, then judging response quality against human ratings (HelpSteer2), then agent decisions.
-
-<a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
-
 ### Towards On-Orbit ML in Pico-Satellites
 `PYTHON` `EDGE AI` `HARDWARE ACCELERATION` `PYTORCH`
 
@@ -101,6 +92,15 @@ Built an ML pipeline to detect lameness from real farm sensor data.
 - **Explainable AI:** ran LIME on every model, summarised as feature-importance charts and word clouds. This caught models relying on meaningless signals (the calendar year, the day of the week, who did the scoring) and showed the per-cow models used how consistent a cow's milking times were, a pattern the herd model missed.
 
 <a href="https://github.com/RobinSpreckley/Spying-On-Cows"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
+
+### Are LLM explanations faithful?
+`PYTHON` `PYTORCH` `EXPLAINABLE AI` `LLMS`
+
+Ongoing. Tests whether an LLM's explanation of its answer reflects what actually drove it. The model names the words behind its sentiment label; deleting them should hurt its answer far more than deleting random words.
+- **First result (Qwen3-4B, 872 SST-2 reviews):** deleting the named words cut the model's confidence about 2.4× more than random words on average, but in 60% of reviews they did no better than random, and it named 69 words that weren't in the review.
+- **Next:** log-odds and occlusion baselines, then judging response quality against human ratings (HelpSteer2), then agent decisions.
+
+<a href="https://github.com/RobinSpreckley/llm-faithfulness"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ### Twitter Web Crawler
 `PYTHON` `MONGODB` `SQL`
