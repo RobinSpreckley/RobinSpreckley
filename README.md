@@ -36,14 +36,14 @@ PASSIONS     Explainable AI
 CURIOSITY    Making slow systems fast
              Understanding why AI models make decisions
 
-CURRENT      Scanner software at Boop, Edinburgh
+CURRENT      Biometric authentication at Boop, Edinburgh
 ```
 
 My main interests are embedded systems, explainable AI and technology that improves people's lives, particularly in healthcare.
 
 I enjoy working close to the hardware, optimising software for constrained devices and finding ways to make AI systems more transparent and trustworthy.
 
-Currently, I'm working on embedded Linux and scanner software at Boop, while exploring the faithfulness of language model explanations through a personal research project.
+Currently, I'm working on embedded Linux for biometric authentication at Boop, while exploring the faithfulness of language model explanations through a personal research project.
 
 <br>
 
