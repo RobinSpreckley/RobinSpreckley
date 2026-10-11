@@ -1,12 +1,10 @@
 <div align="center">
 
-<br>
+# Robin Spreckley
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=1&pause=999999&color=14B8A6&center=true&vCenter=true&repeat=false&width=900&height=90&lines=ROBIN+SPRECKLEY" alt="Robin Spreckley" />
+**Software Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=999999&color=5EB8AE&center=true&vCenter=true&repeat=false&width=700&height=40&lines=SOFTWARE+ENGINEER" alt="Software Engineer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=12&duration=2600&pause=1200&color=8FB9B3&center=true&vCenter=true&width=850&lines=asking+models+why+they+said+that...;deleting+the+words+they+blamed...;checking+if+the+answer+changes...;building+AI+people+can+trust...;tech+for+healthcare..." alt="asking models why they said that" />
+<img src="assets/explain.svg" alt="A robot labels a review positive, points at the words it says mattered, and its confidence drops when they are deleted" width="720"/>
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
