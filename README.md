@@ -31,42 +31,6 @@ INTERESTS  Edge AI, explainable AI, making slow systems fast,
            tooling with Claude Code
 ```
 
-## ✦ work at Boop
-
-<sub>Palm-vein biometric scanner · Edinburgh · code is private, so these are summaries</sub>
-
-### Network telemetry
-`RUST` `OPENTELEMETRY` `GRAFANA`
-
-Added per-device Wi-Fi signal, latency and failure-rate metrics so slow scanners can be diagnosed remotely. This exposed a bug where fast-failing connections were reported as online, hiding 61% of network failures in testing.
-
-### One-command provisioning
-`YOCTO` `LINUX` `TAILSCALE`
-
-Turns a blank SD card into a remotely accessible scanner on Wi-Fi and Tailscale, with keys pre-signed for Tailnet Lock.
-
-### Over-the-air updates restored
-`RAUC` `YOCTO` `BASH` `PKI`
-
-Got over-the-air updates working again. Built tools to sign update bundles and move existing scanners to a new signing key without reflashing. Tested end to end on hardware: wrongly signed updates are refused, and signed updates install to the A/B slots and boot cleanly.
-
-### Phone setup over Bluetooth
-`RUST` `REACT NATIVE` `BLE`
-
-Extended the scanner agent and app so factory-fresh scanners can be connected and claimed from a phone.
-
-### Faster startup
-`C++` `RUST` `PYTHON`
-
-Built a startup profiler for the scanner and optimised its initialisation.
-
-### Deep Tech London showcase
-`RUST` `LINUX` `TAILSCALE` `HARDWARE`
-
-Built the kiosk provisioning for the team's live demo. One flash command clones a master SD card into a kiosk that boots with its own name, machine ID, SSH keys and Tailscale node, and opens the demo page chosen at flash time. Four kiosks were set up this way for the event, where the team's demo collected visitors' palm scans, generated investor interest and tested the full stack live.
-
-<br>
-
 ## ✦ project archive
 
 ### Towards On-Orbit ML in Pico-Satellites
