@@ -15,7 +15,7 @@
 
 </div>
 
-## ▪ character profile
+## ◆ character profile
 
 ```text
 CLASS        Software Engineer
@@ -49,7 +49,7 @@ Currently, I'm working on embedded systems for biometric authentication at Boop,
 
 <br>
 
-## ▪ project archive
+## ◆ project archive
 
 ### Towards On-Orbit ML in Pico-Satellites
 `PYTHON` `EDGE AI` `HARDWARE ACCELERATION` `PYTORCH`
@@ -98,7 +98,7 @@ Django web app with authentication, forms and REST endpoints.
 
 <a href="https://github.com/RobinSpreckley/tango_with_django_project"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<!-- ## ▪ hacks & side quests
+<!-- ## ◆ hacks & side quests
 
 ### Hackathon name · Year
 `TAG` `TAG`
