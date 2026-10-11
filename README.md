@@ -2,7 +2,7 @@
 
 <br>
 
-<a><img src="assets/header.svg?v=2" alt="Robin Spreckley · Software Engineer · explainable AI, tech for healthcare, biometrics" width="100%"/></a>
+<a><img src="assets/header.svg?v=3" alt="Robin Spreckley · Software Engineer · explainable AI, tech for healthcare, biometrics" width="100%"/></a>
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/">LinkedIn</a>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
