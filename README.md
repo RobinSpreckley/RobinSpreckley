@@ -5,6 +5,7 @@
 <a><img src="assets/header-vt2.svg" alt="Robin Spreckley · Software Engineer · explainable AI, tech for healthcare, biometrics" width="100%"/></a>
 
 <a href="https://www.linkedin.com/in/robin-s-657a5a20b/"><img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDloMy4ydjExSDR6TTUuNiAzLjVhMS44IDEuOCAwIDEgMSAwIDMuNiAxLjggMS44IDAgMCAxIDAtMy42ek0xMCA5aDMuMXYxLjVjLjUtLjkgMS43LTEuOCAzLjQtMS44IDMuMyAwIDMuNSAyLjIgMy41IDQuNlYyMGgtMy4ydi01LjljMC0xLjQtLjEtMi45LTEuOS0yLjlzLTIuMSAxLjQtMi4xIDIuOFYyMEgxMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
+&nbsp; ✦ &nbsp;
 <a href="mailto:robin.spreckley12@gmail.com"><img src="https://img.shields.io/badge/Email-5EB8AE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <!-- Add once the portfolio is deployed:
 <a href="https://robinspreckley.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8FB9B3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -14,7 +15,7 @@
 
 </div>
 
-## ✦ character profile
+## ▸ character profile
 
 ```text
 CLASS        Software Engineer
@@ -48,7 +49,7 @@ Currently, I'm working on embedded systems for biometric authentication at Boop,
 
 <br>
 
-## ✦ project archive
+## ▸ project archive
 
 ### Towards On-Orbit ML in Pico-Satellites
 `PYTHON` `EDGE AI` `HARDWARE ACCELERATION` `PYTORCH`
@@ -97,7 +98,7 @@ Django web app with authentication, forms and REST endpoints.
 
 <a href="https://github.com/RobinSpreckley/tango_with_django_project"><img src="https://img.shields.io/badge/CODE-0f766e?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<!-- ## ✦ hacks & side quests
+<!-- ## ▸ hacks & side quests
 
 ### Hackathon name · Year
 `TAG` `TAG`
@@ -109,6 +110,6 @@ One line on what you built or placed.
 
 <div align="center">
 
-<sub>✦ more projects loading... ✦</sub>
+<sub>▸ more projects loading...</sub>
 
 </div>
