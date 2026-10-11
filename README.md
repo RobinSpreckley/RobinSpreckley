@@ -34,6 +34,7 @@ TOOLS        Python
 
 PASSIONS     Explainable AI
              Tech for healthcare
+             Getting the most out of edge hardware
 
 CURIOSITY    Making slow systems fast
              Understanding why AI models make decisions
@@ -41,7 +42,7 @@ CURIOSITY    Making slow systems fast
 CURRENT      Biometric authentication at Boop, Edinburgh
 ```
 
-My main interests are embedded systems, explainable AI and technology that improves people's lives, particularly in healthcare.
+My main interests are getting the most out of edge hardware, explainable AI and technology that improves people's lives, particularly in healthcare.
 
 I enjoy working close to the hardware, optimising software for constrained devices and finding ways to make AI systems more transparent and trustworthy.
 
